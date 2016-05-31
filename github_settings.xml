@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="kdoherty" />
+    <option name="HOST" value="git.hubteam.com" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
