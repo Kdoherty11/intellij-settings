@@ -6,6 +6,7 @@
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="aol-sender-block" type="PLAIN_TEXT" />
       <mapping pattern="via_sendmail_unknown" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
