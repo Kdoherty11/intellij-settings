@@ -4,6 +4,7 @@
       <mapping pattern=".build-executable" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="bugreport" type="PLAIN_TEXT" />
       <mapping pattern="aol-sender-block" type="PLAIN_TEXT" />
       <mapping pattern="via_sendmail_unknown" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
